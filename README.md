@@ -6,7 +6,7 @@ Code for FLC/FIS:
 - MISO (Multi Inputs Single Output)
 
 Context:
-- A fuzzy logic controller is used to manage the speed of a motor (in RPM) based on the measurement of current error and delta error with certain membership functions.
+- A fuzzy logic controller is used to manage the speed of a motor (in RPM) based on the measurement of current error and delta error with certain membership functions and rules.
 - Computation in one forward pass only.
 
 Run the code:
