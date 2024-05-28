@@ -9,6 +9,9 @@ Context:
 - A fuzzy logic controller is used to manage the speed of a motor (in RPM) based on the measurement of current error and delta error with certain membership functions.
 - Computation in one forward pass only.
 
+Run the code:
+- https://colab.research.google.com/github/oskarnatan/FLC/blob/main/FLC_FIS.ipynb
+
 Further developments:
 - Add incremental error input
 - Add more fuzzy sets on each fuzzy variable
